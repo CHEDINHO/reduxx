@@ -1,0 +1,20 @@
+/* AddTask.css */
+
+.add-task {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .add-task input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  .add-task button {
+    padding: 10px 20px;
+  }
+  
